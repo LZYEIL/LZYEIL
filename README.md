@@ -1,7 +1,6 @@
 ## This is Zhiyuan Li
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lzyeil&label=Profile%20views&color=0e75b6&style=flat" alt="lzyeil" /> </p>
 
-<h3 align="left">Languages and Tools:</h3>
+Languages and Tools:
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="80" height="80"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="80" height="80"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="80" height="80"/> </a> </p>
 
 
